@@ -1,12 +1,7 @@
-#include <bits/stdc++.h>
+for x in range(6):
 
-using namespace std;
-int main() {
-    for(int i=1;i<6;i++){
-        for(int a =0;a<i;a++){
-            cout << ".";
-        }
-        cout << endl;
+    for i in range(x):
+        print("*",end="")
 
-    }
-}
+    print("\n")
+        

@@ -1,5 +1,4 @@
-a = input(("Input an \"a\" : "))
-if a == "A" :
-    print("Is A")
-else :
-    print("Not A")
+x = int(input())
+for i in range(100):
+    print(x+i)
+    

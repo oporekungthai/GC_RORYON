@@ -1,8 +1,9 @@
-x = 0
-i = 0
-while(i != -1):
-    i = int(input("Score: "))
-    x = i+x
-    print("Sum of Score is ",x)
+def my_list(list):
+    for i in range(len(list)):
+        print(i)
+        if (list[i] == 20):
+            list[i] = 200
+    print(list)
 
-print("Break")
+list = [5, 10, 15, 20, 25, 50, 20]
+my_list(list)

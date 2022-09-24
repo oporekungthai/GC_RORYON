@@ -1,5 +1,3 @@
-a = int(input("First number : "));
-b = int(input("Second number : "));
-c = int(input("Third number : "));
-if a > b and a < c :
-    print("The condition is true")
+x = input()
+for i in x:
+    print(i)

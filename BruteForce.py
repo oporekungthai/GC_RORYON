@@ -1,0 +1,224 @@
+rip = 0
+input1 = input()
+
+if(input1 == "1"):
+    rip = 1
+if(input1 == "2"):
+    rip = 2
+if(input1 == "3"):
+    rip = 3
+if(input1 == "4"):
+    rip = 4
+if(input1 == "5"):
+    rip = 5
+if(input1 == "6"):
+    rip = 6
+if(input1 == "7"):
+    rip = 7
+if(input1 == "8"):
+    rip = 8
+if(input1 == "9"):
+    rip = 9
+if(input1 == "10"):
+    rip = 10
+if(input1 == "11"):
+    rip = 11
+if(input1 == "12"):
+    rip = 12
+if(input1 == "13"):
+    rip = 13
+if(input1 == "14"):
+    rip = 14
+if(input1 == "15"):
+    rip = 15
+if(input1 == "16"):
+    rip = 16
+if(input1 == "17"):
+    rip = 17
+if(input1 == "18"):
+    rip = 18
+if(input1 == "19"):
+    rip = 19
+if(input1 == "20"):
+    rip = 20
+if(input1 == "21"):
+    rip = 21
+if(input1 == "22"):
+    rip = 22
+if(input1 == "23"):
+    rip = 23
+if(input1 == "24"):
+    rip = 24
+if(input1 == "25"):
+    rip = 25
+if(input1 == "26"):
+    rip = 26
+if(input1 == "27"):
+    rip = 27
+if(input1 == "28"):
+    rip = 28
+if(input1 == "29"):
+    rip = 29
+if(input1 == "30"):
+    rip = 30
+if(input1 == "31"):
+    rip = 31
+if(input1 == "32"):
+    rip = 32
+if(input1 == "33"):
+    rip = 33
+if(input1 == "34"):
+    rip = 34
+if(input1 == "35"):
+    rip = 35
+if(input1 == "36"):
+    rip = 36
+if(input1 == "37"):
+    rip = 37
+if(input1 == "38"):
+    rip = 38
+if(input1 == "39"):
+    rip = 39
+if(input1 == "40"):
+    rip = 40
+if(input1 == "41"):
+    rip = 41
+if(input1 == "42"):
+    rip = 42
+if(input1 == "43"):
+    rip = 43
+if(input1 == "44"):
+    rip = 44
+if(input1 == "45"):
+    rip = 45
+if(input1 == "46"):
+    rip = 46
+if(input1 == "47"):
+    rip = 47
+if(input1 == "48"):
+    rip = 48
+if(input1 == "49"):
+    rip = 49
+if(input1 == "50"):
+    rip = 50
+if(input1 == "51"):
+    rip = 51
+if(input1 == "52"):
+    rip = 52
+if(input1 == "53"):
+    rip = 53
+if(input1 == "54"):
+    rip = 54
+if(input1 == "55"):
+    rip = 55
+if(input1 == "56"):
+    rip = 56
+if(input1 == "57"):
+    rip = 57
+if(input1 == "58"):
+    rip = 58
+if(input1 == "59"):
+    rip = 59
+if(input1 == "60"):
+    rip = 60
+if(input1 == "61"):
+    rip = 61
+if(input1 == "62"):
+    rip = 62
+if(input1 == "63"):
+    rip = 63
+if(input1 == "64"):
+    rip = 64
+if(input1 == "65"):
+    rip = 65
+if(input1 == "66"):
+    rip = 66
+if(input1 == "67"):
+    rip = 67
+if(input1 == "68"):
+    rip = 68
+if(input1 == "69"):
+    rip = 69
+if(input1 == "70"):
+    rip = 70
+if(input1 == "71"):
+    rip = 71
+if(input1 == "72"):
+    rip = 72
+if(input1 == "73"):
+    rip = 73
+if(input1 == "74"):
+    rip = 74
+if(input1 == "75"):
+    rip = 75
+if(input1 == "76"):
+    rip = 76
+if(input1 == "77"):
+    rip = 77
+if(input1 == "78"):
+    rip = 78
+if(input1 == "79"):
+    rip = 79
+if(input1 == "80"):
+    rip = 80
+if(input1 == "81"):
+    rip = 81
+if(input1 == "82"):
+    rip = 82
+if(input1 == "83"):
+    rip = 83
+if(input1 == "84"):
+    rip = 84
+if(input1 == "85"):
+    rip = 85
+if(input1 == "86"):
+    rip = 86
+if(input1 == "87"):
+    rip = 87
+if(input1 == "88"):
+    rip = 88
+if(input1 == "89"):
+    rip = 89
+if(input1 == "90"):
+    rip = 90
+if(input1 == "91"):
+    rip = 91
+if(input1 == "92"):
+    rip = 92
+if(input1 == "93"):
+    rip = 93
+if(input1 == "94"):
+    rip = 94
+if(input1 == "95"):
+    rip = 95
+if(input1 == "96"):
+    rip = 96
+if(input1 == "97"):
+    rip = 97
+if(input1 == "98"):
+    rip = 98
+if(input1 == "99"):
+    rip = 99
+if(input1 == "100"):
+    rip = 100
+if(input1 == "ร"):
+    print("W")
+else:
+    
+    if(rip>=80):
+        print("4")
+    elif(rip>=75):
+        print("3.5")
+    elif(rip>=70):
+        print("3")
+    elif(rip>=65):
+        print("2.5")
+    elif(rip>=60):
+        print("2")
+    elif(rip>=55):
+        print("1.5")
+    elif(rip>=50):
+        print("1")
+    else:
+        print("0")
+
